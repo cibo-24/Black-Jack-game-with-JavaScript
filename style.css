@@ -1,0 +1,86 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Helvetica, sans-serif;
+    background-image: url("images/table.png");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border-radius: 15px;
+    border: none;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+#chips-div {
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#chips-el {
+    padding: 20px;
+    margin: 10px;
+}
+
+
+.card-emo {
+    font-size: 30px;
+}
+
+.card-7 {
+    color: black;
+}
+
+
+.chips-1 {
+    border: 3px  rgb(132, 196, 37) solid;
+    border-radius: 60px;
+    background-image: url("./images/token-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #ff0000;
+    font-size: 15px;
+    
+}
+
+.chips-2 {
+    border: 3px  rgb(132, 196, 37) solid;
+    border-radius: 60px;
+    background-image: url("./images/token-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #ff0000;
+    font-size: 15px;
+}
+
+.chips-3 {
+    border: 3px rgb(132, 196, 37) solid;
+    border-radius: 60px;
+    background-image: url("./images/token-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #ff0000;
+    font-size: 12px;
+}
+
